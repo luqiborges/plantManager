@@ -6,7 +6,7 @@
   <p align="center">
     <img src="./assets/icon.png" height="200" width="200"/>
   </p>
-  <h1>
+  <h1 align="center">
     PlantManager
   </h1>
 </head>
