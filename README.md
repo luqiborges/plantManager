@@ -73,7 +73,11 @@ A stack utilizada para criar o plantManager está em constante atualização. At
 
 
 <p align="center">
-  <img src="public/moveittela.png" alt="Logo moveit"/>
+  <img src="./github/teladeentrada.jpeg" alt="Tela de Entrada" height="400" width="180"/>
+  <img src="./github/telainicial.jpeg" alt="Tela Inicial" height="400" width="180"/>
+  <img src="./github/nome.jpeg" alt="Tela de Nome" height="400" width="180"/>
+  <img src="./github/telaprincipal.jpeg" alt="Tela Principal" height="400" width="180"/>
+  <img src="./github/minhasplantas.jpeg" alt="Minhas Plantas" height="400" width="180"/>
 </p>
 
 ---
