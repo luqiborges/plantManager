@@ -3,8 +3,5 @@
   <img src=https://img.shields.io/badge/license-MIT-03BB85/>
 </p
   
-<img src="../assets/favicon.png"/>
-
-
 🌱 Projeto da NLW #05 da Rocketseat, um App para auxiliar no cuidado com nossas plantinhas!
-
+<img src="../assets/favicon.png"/>
