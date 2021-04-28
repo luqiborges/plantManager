@@ -4,4 +4,4 @@
 </p
   
 🌱 Projeto da NLW #05 da Rocketseat, um App para auxiliar no cuidado com nossas plantinhas!
-<img src="./assets/icon.png" height="50" width="300"/>
+<img src="./assets/icon.png" height="300" width="300"/>
