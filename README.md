@@ -6,8 +6,8 @@
   <p align="center">
     <img src="./assets/icon.png" height="200" width="200"/>
   </p>
+  <h1>
+    
+  </h1>
 </head>
   
-<p align="center">
-  <img src="./assets/icon.png" height="200" width="200"/>
-</p>
