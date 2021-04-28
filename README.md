@@ -3,7 +3,7 @@
   <img src=https://img.shields.io/badge/license-MIT-03BB85/>
 </p
   
-  <img src="./assets/adaptive-icon.png" height=24 width=24/>
+  <img src="./assets/adaptive-icon.png"/>
 
 
 
