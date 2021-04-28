@@ -3,4 +3,6 @@
   <img src=https://img.shields.io/badge/license-MIT-03BB85/>
 </p
   
-<img src="./assets/icon.png" height="200" width="200"/>
+<p>
+  <img src="./assets/icon.png" height="200" width="200"/>
+</p>
