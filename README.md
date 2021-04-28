@@ -25,9 +25,13 @@
 
    O PlantManager é um App que permite o cadastro de plantinhas dos usuários, associando-as aos ambientes da casa em que estão distribuídas e lembrando o usuário do horário de regá-las através de notificações no próprio dispositivo.
 
-<p>
-  <img src="./github/FigmaLayout.png"/>
+<p align="center">
+  <img src="./github/FigmaLayout.png" height="400" width="710"/>
 </p>
+<p align="center">
+  <a href="https://www.figma.com/file/NDi2Lum5LZgPUZt7gp5Atl/PlantManager-(Copy)?node-id=0%3A1">Layout no Figma</a>
+</p>
+
 
 ## :computer: Tecnologias
 
