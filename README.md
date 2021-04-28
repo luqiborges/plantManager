@@ -25,6 +25,10 @@
 
    O PlantManager é um App que permite o cadastro de plantinhas dos usuários, associando-as aos ambientes da casa em que estão distribuídas e lembrando o usuário do horário de regá-las através de notificações no próprio dispositivo.
 
+<p>
+  <img src="./github/FigmaLayout.png"/>
+</p>
+
 ## :computer: Tecnologias
 
 A stack utilizada para criar o plantManager está em constante atualização. Até o presente momento, as seguintes tecnologias foram escolhidas:
