@@ -7,7 +7,7 @@
     <img src="./assets/icon.png" height="200" width="200"/>
   </p>
   <h1>
-    
+    PlantManager
   </h1>
 </head>
   
