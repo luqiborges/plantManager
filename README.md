@@ -5,4 +5,5 @@
   
 <p align="center">
   <img src="./assets/icon.png" height="200" width="200"/>
+  <h1>P</h1>
 </p>
